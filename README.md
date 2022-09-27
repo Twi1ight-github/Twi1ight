@@ -6,7 +6,7 @@
 
 ## 👤 About Me
 
-Hi there, my name is Safireen Tokanee. I am a Computer Engineering Student at king mongkut's institute of technology ladkrabang. My interest are cyber security ,computer network ,computer programming  
+Hi there, my name is Safireen Tokanee. I am a Computer Engineering Student at King mongkut's institute of technology ladkrabang. My interest are cyber security ,computer network ,computer programming  
 
 ## 📇 Social & Contact
 
