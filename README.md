@@ -41,6 +41,8 @@ Hi there, my name is Safireen Tokanee. I am a Computer Engineering Student at Ki
   &nbsp; &nbsp;
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
   &nbsp; &nbsp;
+  <a href="https://www.kali.org/get-kali/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /> </a>
+  
  
 </div>
 
