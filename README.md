@@ -32,7 +32,18 @@ Hi there, my name is Safireen Tokanee. I am a Computer Engineering Student at Ki
   &nbsp; &nbsp;
   <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  
+
+### 👨‍💻 Web Tools
+  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/html.svg" alt="c" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/css.svg" alt="cplusplus" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript.svg" alt="java" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="https://www.mysql.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
 
 ### 🛠 Technologies
 
