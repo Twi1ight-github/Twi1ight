@@ -88,6 +88,9 @@ Hi there, my name is Safireen Tokanee. I am a Computer Engineering Student at Ki
 [![Pinned Repository](https://github-readme-stats.vercel.app/api/pin/?username=rootkidx&repo=OverTheWire_Writeup)](https://github.com/Twi1ight-github/OverTheWire_Writeup)
 &nbsp; &nbsp;
 
+![snake gif](https://github.com/rootkidx/rootkidx/blob/output/github-contribution-grid-snake.gif)
+
+
 
 
 
