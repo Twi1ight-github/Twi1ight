@@ -34,13 +34,15 @@ Hi there, my name is Safireen Tokanee. I am a Computer Engineering Student at Ki
   &nbsp; &nbsp;
 
 ### 👨‍💻 Web Tools
-  <a href="https://www.cprogramming.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/1051/1051277.png" alt="html" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.cplusplus.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="cplusplus" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" alt="cplusplus" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="java" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" alt="java" width="40" height="40" /> </a>
   &nbsp; &nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="python" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" alt="python" width="40" height="40" /> </a>
+  &nbsp; &nbsp;
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/react-native.png" alt="python" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   
 ### 🛠 Technologies
@@ -51,6 +53,7 @@ Hi there, my name is Safireen Tokanee. I am a Computer Engineering Student at Ki
   <a href="https://www.arduino.cc" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/arasgungore/arasgungore/main/icons/arduino.svg" alt="arduino" width="40" height="40" /> </a>
   &nbsp; &nbsp;
   <a href="https://www.kali.org/get-kali/" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40" /> </a>
+  <a href="" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/256/raspberry-pi.png" alt="linux" width="40" height="40" /> </a>
   
  
 </div>
