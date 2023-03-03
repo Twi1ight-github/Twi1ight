@@ -4,7 +4,9 @@
 
 ## 👤 About Me
 
-Hi there, my name is Safireen Tokanee. I am a Computer Engineering Student at King mongkut's institute of technology ladkrabang. My interest are cyber security ,computer network and DBA  
+:zap: My name is Safireen Tokanee. <br>
+:zap: I am a Computer Engineering Student at King mongkut's institute of technology ladkrabang.<br> 
+:zap: My interest are Cyber Security , Computer Network , Database .
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=rootkidx" height="150" alt="stats graph"  />
